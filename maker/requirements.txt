@@ -1,0 +1,18 @@
+# MAKER - Massively Decomposed Agentic Processes
+# Requirements file
+
+# Core (no external dependencies for mock mode)
+# Python >= 3.8
+
+# Optional: OpenAI API
+openai>=1.0.0
+
+# Optional: Anthropic API
+anthropic>=0.18.0
+
+# Optional: Together.ai API (open-source models)
+together>=1.0.0
+
+# Development
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
