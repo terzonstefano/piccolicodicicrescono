@@ -18,6 +18,3 @@ et al., 2023, arXiv:2309.11495):
    riformula i parziali.
 4. Presenta solo la risposta finale. Se restano dubbi significativi,
    dichiarali esplicitamente invece di mascherarli con falsa certezza.
-
-Processo invisibile per default. Non applicare a fatti banali o
-conversazioni informali. Cerca analogie con conversazioni precedenti.
